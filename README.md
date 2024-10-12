@@ -6,5 +6,5 @@ J'ai choisis d'utilisiser React et Expo Go pour ce projet.
 Comment lancer le projet ?
 - Git clone le projet
 - Installer l'application Expo Go sur le store de votre téléphone
-- Rentrer la commende "npx expo start --tunnel" dans le terminal
+- Rentrer la commende "npm i" et ensuite faire "npx expo start --tunnel" dans le terminal
 - scanner le QR code qui s'affiche, cela ouvrira l'application dans Expo Go
